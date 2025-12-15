@@ -1,2 +1,2 @@
 # retro-linux-games
-Modifications and fixed for older games
+Modifications and fixes for older games
